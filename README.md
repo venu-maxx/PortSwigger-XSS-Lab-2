@@ -144,7 +144,7 @@ Figure 1: Payload submitted in comment form (name, email, website filled as dumm
 Figure 2: JavaScript alert(1) pops up when viewing the blog post.
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/PortSwigger-XSS-Lab-2/blob/308471f2b2afb6574888da8121b641cfcd13688c/Portswigger%20XSS%20Lab%202%20Completed.png)
 
 Figure 3: PortSwigger Academy confirmation – "Congratulations, you solved the lab!"
 
